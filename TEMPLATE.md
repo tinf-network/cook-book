@@ -37,7 +37,7 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 
 ### 🧼 Aufräumen
 
-### Haltbarkeit
+### ❄ Haltbarkeit
 <!--
     Einmal hergestellt, wie Joghurt z.B., kann man die Einheit leicht wieder verwenden, sodass die Vorbereitungszeit amortiziert wird.
 
@@ -51,5 +51,5 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 - [] 1 Tag
 <!-- - [] eigene Angabe -->
 
-### Vor- und Nachteile
+### 🤔 Vor- und Nachteile
 <!-- Diskussion -->
