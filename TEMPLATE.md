@@ -1,5 +1,6 @@
 ---
-authors: # hier kommen alle Beteiligten rein
+Autoren: # hier kommen alle Beteiligten rein
+Datum: # Erstelldatum (DD.MM.YYYY)
 ---
 
 # <!-- Name des Rezepts -->
@@ -12,7 +13,7 @@ authors: # hier kommen alle Beteiligten rein
 ### 🏁 Ziele
 <!-- Hier wird das Rezept (Lernziele) beschrieben. -->
 
-### 📄 Zutaten, Kosaten und Qualität
+### 📄 Zutaten, Kosten und Qualität
 <!-- Bei den Zutaten sind die Kosten zu bedenken. Weiterhin könnte man hier eine Anmerkung zum Datenschutz machen. -->
 
 | Zutat | Ort | Kosten | Anmerkungen |
