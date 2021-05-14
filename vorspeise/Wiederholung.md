@@ -77,6 +77,7 @@ Das Erstellen der Quizzes könnte auf Stundenten ausgelagert und mit Noten beloh
 + Wiederholung der Themen verfestigt sich zumindest bei den Präsentierenden
 + Kurs kann bei der Wiederholung auch einbezogen werden
 + "vergessener" Stoff kann vom Dozenten nachgereicht/ergänzt werden
++ Durch solch ein Quiz können Gamifikation ansätze genutzt werden, was zu einer Motivationssteigerung bei den Studenten führen kann
 
 - Die anderen Studierenden muss man ermutigen. Nach einer Weile haben viele kein Interesse mehr an Kahoots, weil die Luft draußen ist oder Klausuren näher rücken.
 - Es benötigt viel Abwechslung.
