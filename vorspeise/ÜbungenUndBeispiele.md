@@ -62,6 +62,8 @@ Digital möglich LIVE mittels IPad oder Beschreibung bereits schriftlich erstell
 (Beispiel aus Kryptographie)
 
 #### 📊 Küche aufräumen 
+nicht notwendig, je nach Vorwissen und Aktivität im Kurs dauern Übungen und Fragen etwas länger. Dann muss der Stoff etwas gekürzt werden
+oder Aufgaben für die Selbstbearbeitung daheim durchgeführt werden.
 
 #### ❄ Haltbarkeit
 Übungen können nochmal neu aufbereitet und verbessert werden, je nach Feedback vom Kurs, Anpassungen im Lehrplan
