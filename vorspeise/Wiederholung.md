@@ -24,6 +24,7 @@ Das Thema der Vorwoche soll aufgefrischt werden. Dadurch wird festgestellt, was 
 #### 🏁Lernziel
 * Der Inhalt der letzten Woche wird wieder in Erinnerung gerufen
 * Vorstellung als Gruppe oder Einzeln
+* Success Tracking fordert die Beteiligung. Einsatz von Moodle kann den Track Record erfassen, der dann auch in die Bewertung einfließen kann.
 
 #### ⚡Beispiele
 * Vorlesung: DB 2 - Implementierung
