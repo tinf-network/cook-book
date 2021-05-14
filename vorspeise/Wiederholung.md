@@ -74,5 +74,12 @@ Das Erstellen der Quizzes könnte auf Stundenten ausgelagert und mit Noten beloh
 + Lockere Art und Weise
 + Fordert die Initiative der Studierenden
 + Pusht die Kreativität der Präsentierenden
++ Wiederholung der Themen verfestigt sich zumindest bei den Präsentierenden
++ Kurs kann bei der Wiederholung auch einbezogen werden
++ "vergessener" Stoff kann vom Dozenten nachgereicht/ergänzt werden
+
 - Die anderen Studierenden muss man ermutigen. Nach einer Weile haben viele kein Interesse mehr an Kahoots, weil die Luft draußen ist oder Klausuren näher rücken.
 - Es benötigt viel Abwechslung.
+- Stoff sollte verständlich zusammengefasst werden, nicht nur die wichtigsten Folien kopieren
+- Qualität der Wiederholungen abhängig von den Studierenden
+- zu viel und zu oft Quizzes in Präsentationen einzusetzen ist auch nicht unbedingt förderlich (-> Teilnahmequote sinkt)
