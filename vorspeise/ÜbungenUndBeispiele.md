@@ -61,6 +61,7 @@ Wichtig ist es auch, Lösungen nicht nur mündlich zu besprechen, sondern auch d
 Eignet sich auch zum Nachbearbeiten von Themen daheim und zum Besprechen in der nächsten Veranstaltung.
 Digital möglich LIVE mittels IPad oder Beschreibung bereits schriftlich erstellter Lösungen (bspw. eingescannt)
 
+Bereitstellung der Musterlösung nach einer gewissen Zeit.
 
 #### 📑 Referenzen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
@@ -84,3 +85,9 @@ oder wenn die Schwierigkeit zu hoch/zu gering ist.
 
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
+- Definitionen und Wissensfragen kann man hier nicht anwenden. Diese muss man aktiv auswendiglernen.
+- Überlegen, welche Themen weggelassen werden (Zeit ist nur begrenzt verfügbar). Jedoch wäre es denkbar ein Thema zu streichen, wenn dafür das Thema "richtig sitzt".
+- Mehr Nachbearbeitungszeit wird benötigt. Hängt von der Auslastung ab (vlt. als Prüfungsform ergänzbar).
++ Bestimmte Themen kann man dadurch jedoch veranschaulichen oder wiederholen (Greifbarkeit aufzeigen).
++ Initiative und Interesse der Studierenden wird gefördert.
++ Interaktion unter den Studierenden wird in den Gruppen durch Kollaboration gefördert.
