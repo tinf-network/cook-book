@@ -52,7 +52,7 @@ Ablauf
     Hier sollte man ganz genau beschreiben, wie das geht, damit es auch gut ankommt. Ein Poll, beispielsweise, wo nur der Fragesteller die Antworten sieht ist nicht best-practice. Daher bitte gerne viel Detail hier, dass man das Szenario wirklich nachstellen kann.
     
     Zu vermeiden ist ala: "Kochen Sie die Nudeln bis sie fertig sind." 
--->
+--> 
 
 #### 📑 Referenzen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
@@ -85,5 +85,7 @@ Ablauf
 
 - Studierende sind frontal gewöhnt -> schwierig sie anfangs zu motivieren :D
 - Aufwand, die Diskussionen zu moderieren
+- eventuell erhebliche Zeitkapazität seitens der Studenten benötigt, wenn diese Probleme mit dem Verständnis haben
+- bei übergreifender Einführung schwierig zeitmäßig umzusetzen
 
 
