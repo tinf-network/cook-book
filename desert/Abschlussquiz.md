@@ -5,9 +5,9 @@ Datum: 14.05.2021
 
 # <!-- Name des Rezepts -->
 
-# Gesehen: DHBW Karlsruhe: Berkling
+# Gesehen: DHBW Karlsruhe:
 
-##  Thema: Software Engineering
+##  Thema: DB2
 
 ##  Art der Speise: Desert
 
