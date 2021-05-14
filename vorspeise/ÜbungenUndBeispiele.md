@@ -27,6 +27,9 @@ Anschluss von Studierenden selber oder in Gruppen bearbeitet werde können. Dadu
 direkt die Themen verstehen sowie begreifen (anstatt nur auswendig zu lernen). Ggf. können einzelne
 Gruppen oder Personen auch ihre Ergebnisse vorstellen, um die Kommunikation und Interaktion im Kurs zu steigern.
 
+Hierdurch können wissenslücken frühzeitig entdeckt werden. 
+Dies ermöglicht weiterhin, dass Themen die gegebenenfalls unverständlich vermittelt wurden zu identifizieren und dies auszugleichen.
+
 #### ⚡Beispiele
 
 #### 📜Zutaten, Kosten, Login? und Datenschutz 
@@ -41,6 +44,7 @@ Gruppen oder Personen auch ihre Ergebnisse vorstellen, um die Kommunikation und 
 #### ⏳ Kochzeit 
 <!-- bspw. "max. 10 Minuten" wie lange wird dieses Format angewendet -->
 immer mal wieder während der Vorlesung (am besten nach einem neuen Thema)
+nach jedem Themenkomplex
 
 #### 🍴 Speiseplan 
 <!--
