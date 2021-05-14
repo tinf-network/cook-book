@@ -81,6 +81,7 @@ Ablauf
 + aktuelle Themen einbeziehen und das Interesse wecken
 + Lösungen von Studierenden dediziert einfordern (rotierend), sodass jeder wirklich mitmacht
 + flexibel auch auf Themenwünsche im Kurs anwendbar
++ gerade digital ist Kommunikation und Konversation von Studierenden untereinander "therapeutisch" 
 
 - Studierende sind frontal gewöhnt -> schwierig sie anfangs zu motivieren :D
 - Aufwand, die Diskussionen zu moderieren
