@@ -1,5 +1,5 @@
 ---
-Autoren: # hier kommen alle Beteiligten rein
+Autoren: # Jeanne Helm, Gino Messmer, Coach @lfr€d
 Datum: # Erstelldatum 14. Mai 2021
 ---
 
@@ -27,7 +27,7 @@ Anschluss von Studierenden selber oder in Gruppen bearbeitet werde können. Dadu
 direkt die Themen verstehen sowie begreifen (anstatt nur auswendig zu lernen). Ggf. können einzelne
 Gruppen oder Personen auch ihre Ergebnisse vorstellen, um die Kommunikation und Interaktion im Kurs zu steigern.
 
-Hierdurch können wissenslücken frühzeitig entdeckt werden. 
+Hierdurch können Wissenslücken frühzeitig entdeckt werden. 
 Dies ermöglicht weiterhin, dass Themen die gegebenenfalls unverständlich vermittelt wurden zu identifizieren und dies auszugleichen.
 
 #### ⚡Beispiele
@@ -55,7 +55,7 @@ Ablauf
     
     Zu vermeiden ist ala: "Kochen Sie die Nudeln bis sie fertig sind." 
 -->
-Zu vermeiden ist, dass genügend Zeit benötigt wird, um sich noch einmal das Thema durchzulesen und auch die Aufgabe anzufangen.
+Zu berücksichtigen ist, dass genügend Zeit benötigt wird, um sich noch einmal das Thema durchzulesen und auch die Aufgabe anzufangen.
 Für den Dozierenden können einige Aufgaben trivial sein, Studierende benötigen aber nochmal etwas Zeit.
 Wichtig ist es auch, Lösungen nicht nur mündlich zu besprechen, sondern auch digital zur Verfügung zu stellen.
 Eignet sich auch zum Nachbearbeiten von Themen daheim und zum Besprechen in der nächsten Veranstaltung.
@@ -84,3 +84,4 @@ oder wenn die Schwierigkeit zu hoch/zu gering ist.
 
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
++- Ich schlage vor, diese Übungen erst 1 Woche später zu machen, wenn der Stoff auch verstanden wurde.
