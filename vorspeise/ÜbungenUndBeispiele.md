@@ -43,8 +43,10 @@ Dies ermöglicht weiterhin, dass Themen die gegebenenfalls unverständlich vermi
 
 #### ⏳ Kochzeit 
 <!-- bspw. "max. 10 Minuten" wie lange wird dieses Format angewendet -->
-immer mal wieder während der Vorlesung (am besten nach einem neuen Thema)
+* immer mal wieder während der Vorlesung (am besten nach einem neuen Thema)
 nach jedem Themenkomplex
+
+* ggf. auch weitere Übungen, die zur Klausurvorbereitung genutzt werden können (mit anschließender gemeinsamer Auswertung)
 
 #### 🍴 Speiseplan 
 <!--
