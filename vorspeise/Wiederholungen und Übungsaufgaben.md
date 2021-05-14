@@ -52,6 +52,7 @@ Ablauf
 - Besprechung der Übungsaufgaben
 - Bereitstellung der Materalien
 
+
 #### 📑 Referenzen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
 Vorlesung Computer Grafik SS2021
@@ -75,7 +76,7 @@ Vorlesung Computer Grafik SS2021
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
 + Kann gut für die Klausurvorbereitung wieder aufgegriffen werden, da alle Schritte nachvollziehbar sind und die Stofffülle nachvollziehbar ist.
-+ Stoff wird verstanden
++ Stoff wird verstanden => wissenslücken festgestellt und bestenfalls geschlossen
 + einbeziehen aller Studierenden möglich, da Diskussionen angeregt werden
 + Lernen nicht nur kurz vor der Klausur, sondern durchgehend (auch Übungen von nicht klausurrelevanten Themen möglich)
 + Vertiefung des Themas möglich anhand von freiwilligen Sternchen-Aufgaben
