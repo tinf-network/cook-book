@@ -1,6 +1,6 @@
 ---
-Autoren: # hier kommen alle Beteiligten rein
-Datum: # Erstelldatum (DD.MM.YYYY)
+Autoren: # Marlon
+Datum: # Erstelldatum (14.05.2021)
 ---
 
 # <!-- Name des Rezepts -->
@@ -19,6 +19,7 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 [X] Einzelarbeit
 
 #### 📄 Beschreibung
+Das Thema der Vorwoche soll aufgefrischt werden. Dadurch wird festgestellt, was "hängen geblieben" ist und eventuell wiederholt werden muss.
 
 #### 🏁Lernziel
 * Der Inhalt der letzten Woche wird wieder in Erinnerung gerufen
@@ -35,7 +36,7 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 |Quiz|https://kahoot.it/|0|?|für Admin|
 
 #### 🚧 Vorbereitungszeit
-30 - 60 min
+1 - 2 Stunden
 
 #### ⏳ Kochzeit
 5 - 10 min
@@ -52,6 +53,7 @@ Ablauf
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel.md zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
 
 #### 📊 Küche aufräumen
+Das Erstellen der Quizzes könnte auf Stundenten ausgelagert und mit Noten belohnt werden (einmalig).
 
 #### ❄ Haltbarkeit
 <!--
