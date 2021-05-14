@@ -34,9 +34,14 @@ Flipped Classroom oder Inverted Classroom bezeichnet eine Unterrichtsmethode des
 
 | Zutat | Ort | Kosten | Sicherheit |Login?|
 |Wissenswerwerb|zu Hause|1h|???|Ja|
+|Roten Faden ausarbeiten|zu Hause|30 min|???||
+|Sich einen passenden Abschluss aussuchen + Wahl des Tools|zu Hause|30 Minuten|Whiteboard, OneNote, etc|
 
 #### 🚧 Vorbereitungszeit 
 <!-- Hier geht es darum, wie lange eine Vorbereitung für die Einheit dauert. Ein Lernvideo kann mehrere Stunden dauern. -->
+* Inhalte für Diskurs aufbereiten. Den Studierenden fällt es einfacher an etwas zu arbeiten, was bereits definiert ist.
+
+Pro Einheit locker 1 Stunde.
 
 #### ⏳ Kochzeit 
 <!-- bspw. "max. 10 Minuten" wie lange wird dieses Format angewendet -->
@@ -62,8 +67,8 @@ Ablauf
 -->
 
 - [] Altert nicht
-- [] 1 Jahr
-- [] 1 Monat
+- [x] 1 Jahr
+- [x] 1 Monat
 - [] 1 Woche
 - [] 1 Tag
 <!-- - [] eigene Angabe -->
