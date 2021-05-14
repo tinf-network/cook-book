@@ -1,6 +1,6 @@
 ---
-Autoren: # Luca, Coach @lfr€d
-Datum: # Erstelldatum (14.05.2021)
+Autoren: Luca, Coach @lfr€d
+Datum: 14.05.2021
 ---
 
 # <!-- Name des Rezepts -->
@@ -24,7 +24,7 @@ Ermöglichen, den Inhalt nochmals in kurzer Form wiederzugeben.
 
 #### Lernziel
 <!-- Hier wird das Rezept (Lernziele) beschrieben. -->
-Durch Wiederholungen Lernerfolg steigern, bzw. Lernaufwand verringern und somit Studenten besser motivieren
+Durch Wiederholungen Lernerfolg steigern, bzw. Lernaufwand verringern und somit Studenten besser motivieren. Wiederholungen zentral bereitstellen, sodass diese für die Vorbereitung wiederverwendet werden können.
 
 #### Beispiele
 Kahoot, Zusammenfassung zeigen (wichtistes auf einen Blick)
@@ -68,3 +68,5 @@ Kahoot, Zusammenfassung zeigen (wichtistes auf einen Blick)
 
 ####  Vor- und Nachteile
 * Von wem wird das Quiz erstellt? Dozent / Studenten
++ Benötigt gute Übersicht und gute Vorbereitung
+- Motivation muss oben gehalten werden. Am besten nicht kurz vor Klausurphase.
