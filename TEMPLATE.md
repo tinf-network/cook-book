@@ -9,9 +9,9 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 
 ## 📚 Thema: Software Engineering
 
-## 🍲 <!-- Art der Speise: Vorspeise , Hauptgang, Desert -->
+## 🍲 Art der Speise: <!-- Art der Speise: Vorspeise , Hauptgang, Desert -->
 
-### Name: Frontalvorlesung
+### Name: Gib-dem-Pattern-einen-Namen
 
 #### 🍹 Geschmacksrichtung
 [ ] Frontal
@@ -50,7 +50,7 @@ Ablauf
 
 #### 📊 Küche aufräumen 
 
-### ❄ Haltbarkeit
+#### ❄ Haltbarkeit
 <!--
     Einmal hergestellt, wie Joghurt z.B., kann man die Einheit leicht wieder verwenden, sodass die Vorbereitungszeit amortiziert wird.
 
@@ -64,5 +64,5 @@ Ablauf
 - [] 1 Tag
 <!-- - [] eigene Angabe -->
 
-### 🤔 ⚠️ Vor- und Nachteile
+#### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
