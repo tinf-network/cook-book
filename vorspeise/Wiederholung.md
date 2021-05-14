@@ -5,9 +5,9 @@ Datum: # Erstelldatum (14.05.2021)
 
 # <!-- Name des Rezepts -->
 
-# 🌏 Gesehen: DHBW Karlsruhe:
+# 🌏 Gesehen: DHBW Karlsruhe: 
 
-## 📚 Thema:
+## 📚 Thema: Datenbanken 2
 
 ## 🍲 Art der Speise: Vorspeise
 
@@ -71,3 +71,8 @@ Das Erstellen der Quizzes könnte auf Stundenten ausgelagert und mit Noten beloh
 
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
++ Lockere Art und Weise
++ Fordert die Initiative der Studierenden
++ Pusht die Kreativität der Präsentierenden
+- Die anderen Studierenden muss man ermutigen. Nach einer Weile haben viele kein Interesse mehr an Kahoots, weil die Luft draußen ist oder Klausuren näher rücken.
+- Es benötigt viel Abwechslung.
