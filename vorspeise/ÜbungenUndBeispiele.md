@@ -55,7 +55,7 @@ Ablauf
     
     Zu vermeiden ist ala: "Kochen Sie die Nudeln bis sie fertig sind." 
 -->
-Zu berücksichtigen ist, dass genügend Zeit benötigt wird, um sich noch einmal das Thema durchzulesen und auch die Aufgabe anzufangen.
+Zu vermeiden ist, dass genügend Zeit benötigt wird, um sich noch einmal das Thema durchzulesen und auch die Aufgabe anzufangen.
 Für den Dozierenden können einige Aufgaben trivial sein, Studierende benötigen aber nochmal etwas Zeit.
 Wichtig ist es auch, Lösungen nicht nur mündlich zu besprechen, sondern auch digital zur Verfügung zu stellen.
 Eignet sich auch zum Nachbearbeiten von Themen daheim und zum Besprechen in der nächsten Veranstaltung.
@@ -84,4 +84,3 @@ oder wenn die Schwierigkeit zu hoch/zu gering ist.
 
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
-+- Ich schlage vor, diese Übungen erst 1 Woche später zu machen, wenn der Stoff auch verstanden wurde.

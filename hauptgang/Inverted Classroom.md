@@ -87,5 +87,6 @@ Ablauf
 - Aufwand, die Diskussionen zu moderieren
 - eventuell erhebliche Zeitkapazität seitens der Studenten benötigt, wenn diese Probleme mit dem Verständnis haben
 - bei übergreifender Einführung schwierig zeitmäßig umzusetzen
+- gut verständliche Folien notwendig oder Zusatzliteratur, damit das Erarbeiten in angemessener Zeit möglich ist
 
 
