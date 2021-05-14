@@ -34,6 +34,7 @@ Vor jeder Einheit haben wir die vorherige Vorlesung wiederholt und Übungsaufgab
 
 #### 🚧 Vorbereitungszeit 
 <!-- Hier geht es darum, wie lange eine Vorbereitung für die Einheit dauert. Ein Lernvideo kann mehrere Stunden dauern. -->
+1 Stunde maximal
 
 #### ⏳ Kochzeit 
 <!-- bspw. "max. 10 Minuten" wie lange wird dieses Format angewendet -->
@@ -53,6 +54,7 @@ Ablauf
 
 #### 📑 Referenzen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
+Vorlesung Computer Grafik SS2021
 
 #### 📊 Küche aufräumen 
 
@@ -63,7 +65,7 @@ Ablauf
     Die entsprechende Box ankreuzen: - [x]
 -->
 
-- [] Altert nicht
+- [x] Altert nicht
 - [] 1 Jahr
 - [] 1 Monat
 - [] 1 Woche
@@ -72,3 +74,4 @@ Ablauf
 
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
++ Kann gut für die Klausurvorbereitung wieder aufgegriffen werden, da alle Schritte nachvollziehbar sind und die Stofffülle nachvollziehbar ist.
