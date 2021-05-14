@@ -1,6 +1,6 @@
 ---
-Autoren: # hier kommen alle Beteiligten rein
-Datum: # Erstelldatum (DD.MM.YYYY)
+Autoren: # Luca, Coach @lfr€d
+Datum: # Erstelldatum (14.05.2021)
 ---
 
 # <!-- Name des Rezepts -->
@@ -11,7 +11,7 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 
 ##  Art der Speise: Desert
 
-### Name: Gib-dem-Pattern-einen-Namen
+### Name: Abschlussquiz
 
 ####  Geschmacksrichtung
 [ ] Frontal
@@ -19,17 +19,18 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 [ ] Einzelarbeit
 
 ####  Beschreibung 
-Ermöglichen den Inhalt nochmals in kurzer Form wiederzugeben
+Ermöglichen, den Inhalt nochmals in kurzer Form wiederzugeben.
+<!-- Frage: in welcher Form? -->
 
 #### Lernziel
 <!-- Hier wird das Rezept (Lernziele) beschrieben. -->
-Durch wiederholungen lernerfolg steigern, bzw lernaufwand verringern und somit studenten besser motivieren
+Durch Wiederholungen Lernerfolg steigern, bzw. Lernaufwand verringern und somit Studenten besser motivieren
 
 #### Beispiele
 Kahoot, Zusammenfassung zeigen (wichtistes auf einen Blick)
 
 #### Zutaten, Kosten, Login? und Datenschutz 
-<!-- Bei den Zutaten sind die Kosten zu bedenken. Weiterhin kÃ¶nnte man hier eine Anmerkung zum Datenschutz machen. -->
+<!-- Bei den Zutaten sind die Kosten zu bedenken. Weiterhin könnte man hier eine Anmerkung zum Datenschutz machen. -->
 
 | Zutat | Ort | Kosten | Sicherheit |Login?|
 |--|--|--|--|--|
@@ -37,7 +38,7 @@ Kahoot, Zusammenfassung zeigen (wichtistes auf einen Blick)
 
 
 #### Vorbereitungszeit 
-30 min
+1 - 2h
 
 
 #### Kochzeit 
@@ -47,7 +48,7 @@ Kahoot, Zusammenfassung zeigen (wichtistes auf einen Blick)
 
 
 ####  Referenzen
-<!-- Hier wÃ¤re es sehr schÃ¶n, wenn man ein Beispiel zeigen kÃ¶nnte, das idealerweise offen, zb auf GIT liegt. -->
+<!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
 
 ####  Küche aufräumen 
 
