@@ -57,8 +57,9 @@ Digital möglich LIVE mittels IPad oder Beschreibung bereits schriftlich erstell
 
 
 #### 📑 Referenzen
-TODO: Beispiele aus Mathematik und Kryptographie hochladen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
+<img width="815" alt="grafik" src="https://user-images.githubusercontent.com/57350599/118295592-54983c80-b4dc-11eb-921a-590d8c5ea373.png">
+(Beispiel aus Kryptographie)
 
 #### 📊 Küche aufräumen 
 
