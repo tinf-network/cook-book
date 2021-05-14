@@ -1,27 +1,31 @@
 ---
 Autoren: # hier kommen alle Beteiligten rein
-Datum: # Erstelldatum (DD.MM.YYYY)
+Datum: # Erstelldatum 14. Mai 2021
 ---
 
 # <!-- Name des Rezepts -->
 
-# 🌏 Gesehen: DHBW Karlsruhe: Berkling
+# 🌏 Gesehen: DHBW Karlsruhe:
 
-## 📚 Thema: Software Engineering
+## 📚 Thema: Anwendungsspezifische Fächer (wie Mathematik oder Kryptographie)
 
-## 🍲 Art der Speise: <!-- Art der Speise: Vorspeise , Hauptgang, Desert -->
+## 🍲 Art der Speise: Vorspeise (benötigt Vorbereitung)
 
-### Name: Gib-dem-Pattern-einen-Namen
+### Name: Übungen und Beispiele
 
 #### 🍹 Geschmacksrichtung
 [ ] Frontal
-[ ] Gruppe
-[ ] Einzelarbeit
+[x] Gruppe
+[x] Einzelarbeit
 
 #### 📄 Beschreibung 
 
 #### 🏁Lernziel
-<!-- Hier wird das Rezept (Lernziele) beschrieben. -->
+Das Ziel ist es, dass Studierende den theoretischen Stoff direkt anhand von praktischen 
+Beispielen anwenden können. Zunächst gibt der Dozierende Beispiele selbst vor, die dann im 
+Anschluss von Studierenden selber oder in Gruppen bearbeitet werde können. Dadurch sollen sie
+direkt die Themen verstehen sowie begreifen (anstatt nur auswendig zu lernen). Ggf. können einzelne
+Gruppen oder Personen auch ihre Ergebnisse vorstellen, um die Kommunikation und Interaktion im Kurs zu steigern.
 
 #### ⚡Beispiele
 
@@ -32,10 +36,11 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 |--|--|--|--|--|
 
 #### 🚧 Vorbereitungszeit 
-<!-- Hier geht es darum, wie lange eine Vorbereitung für die Einheit dauert. Ein Lernvideo kann mehrere Stunden dauern. -->
+1 Tag
 
 #### ⏳ Kochzeit 
 <!-- bspw. "max. 10 Minuten" wie lange wird dieses Format angewendet -->
+immer mal wieder während der Vorlesung (am besten nach einem neuen Thema)
 
 #### 🍴 Speiseplan 
 <!--
@@ -44,21 +49,25 @@ Ablauf
     
     Zu vermeiden ist ala: "Kochen Sie die Nudeln bis sie fertig sind." 
 -->
+Zu vermeiden ist, dass genügend Zeit benötigt wird, um sich noch einmal das Thema durchzulesen und auch die Aufgabe anzufangen.
+Für den Dozierenden können einige Aufgaben trivial sein, Studierende benötigen aber nochmal etwas Zeit.
+Wichtig ist es auch, Lösungen nicht nur mündlich zu besprechen, sondern auch digital zur Verfügung zu stellen.
+Eignet sich auch zum Nachbearbeiten von Themen daheim und zum Besprechen in der nächsten Veranstaltung.
+Digital möglich LIVE mittels IPad oder Beschreibung bereits schriftlich erstellter Lösungen (bspw. eingescannt)
+
 
 #### 📑 Referenzen
+TODO: Beispiele aus Mathematik und Kryptographie hochladen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
 
 #### 📊 Küche aufräumen 
 
 #### ❄ Haltbarkeit
-<!--
-    Einmal hergestellt, wie Joghurt z.B., kann man die Einheit leicht wieder verwenden, sodass die Vorbereitungszeit amortiziert wird.
+Übungen können nochmal neu aufbereitet und verbessert werden, je nach Feedback vom Kurs, Anpassungen im Lehrplan
+oder wenn die Schwierigkeit zu hoch/zu gering ist. 
 
-    Die entsprechende Box ankreuzen: - [x]
--->
-
-- [] Altert nicht
-- [] 1 Jahr
+- [x] Altert nicht
+- [x] 1 Jahr
 - [] 1 Monat
 - [] 1 Woche
 - [] 1 Tag
