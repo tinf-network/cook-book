@@ -5,28 +5,41 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 
 # <!-- Name des Rezepts -->
 
-## 🍲 <!-- Art der Speise: 🍲 Vorspeise , 🍱 Hauptgang, Desert ✨ -->
+# 🌏 Gesehen: DHBW Karlsruhe: Berkling
 
-### 🍹 Geschmacksrichtung
-<!-- bspw. Frontal, Gruppe, etc. -->
+## 📚 Thema: Software Engineering
 
-### 🏁 Ziele
+## 🍲 <!-- Art der Speise: Vorspeise , Hauptgang, Desert -->
+
+### Name: Frontalvorlesung
+
+#### 🍹 Geschmacksrichtung
+[ ] Frontal
+[ ] Gruppe
+[ ] Einzelarbeit
+
+#### 📄 Beschreibung 
+
+#### 🏁Lernziel
 <!-- Hier wird das Rezept (Lernziele) beschrieben. -->
 
-### 📄 Zutaten, Kosten und Qualität
+#### ⚡Beispiele
+
+#### 📜Zutaten, Kosten, Login? und Datenschutz 
 <!-- Bei den Zutaten sind die Kosten zu bedenken. Weiterhin könnte man hier eine Anmerkung zum Datenschutz machen. -->
 
-| Zutat | Ort | Kosten | Anmerkungen |
-| ----- | --- | ------ | ----------- |
+| Zutat | Ort | Kosten | Sicherheit |Login?|
+|--|--|--|--|--|
 
-### 🏗️ Vorbereitungszeit
+#### 🚧 Vorbereitungszeit 
 <!-- Hier geht es darum, wie lange eine Vorbereitung für die Einheit dauert. Ein Lernvideo kann mehrere Stunden dauern. -->
 
-### ⌛ Kochzeit
-<!-- bspw. "max. 10 Minuten" -->
+#### ⏳ Kochzeit 
+<!-- bspw. "max. 10 Minuten" wie lange wird dieses Format angewendet -->
 
-### 🍴 Speiseplan
+#### 🍴 Speiseplan 
 <!--
+Ablauf
     Hier sollte man ganz genau beschreiben, wie das geht, damit es auch gut ankommt. Ein Poll, beispielsweise, wo nur der Fragesteller die Antworten sieht ist nicht best-practice. Daher bitte gerne viel Detail hier, dass man das Szenario wirklich nachstellen kann.
     
     Zu vermeiden ist ala: "Kochen Sie die Nudeln bis sie fertig sind." 
@@ -35,7 +48,7 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 #### 📑 Referenzen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
 
-### 🧼 Aufräumen
+#### 📊 Küche aufräumen 
 
 ### ❄ Haltbarkeit
 <!--
@@ -51,5 +64,5 @@ Datum: # Erstelldatum (DD.MM.YYYY)
 - [] 1 Tag
 <!-- - [] eigene Angabe -->
 
-### 🤔 Vor- und Nachteile
+### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
