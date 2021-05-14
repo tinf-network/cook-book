@@ -75,3 +75,11 @@ Vorlesung Computer Grafik SS2021
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
 + Kann gut für die Klausurvorbereitung wieder aufgegriffen werden, da alle Schritte nachvollziehbar sind und die Stofffülle nachvollziehbar ist.
++ Stoff wird verstanden
++ einbeziehen aller Studierenden möglich, da Diskussionen angeregt werden
++ Lernen nicht nur kurz vor der Klausur, sondern durchgehend (auch Übungen von nicht klausurrelevanten Themen möglich)
++ Vertiefung des Themas möglich anhand von freiwilligen Sternchen-Aufgaben
+
+- erfordert Initiative der Studierenden
+- nicht planbare Zeit, wie lange Wiederholungen tatsächlich dauern (länger/kürzer)
+- Vorbereitungszeit für den Dozenten
