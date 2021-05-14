@@ -1,6 +1,6 @@
 ---
-Autoren: # hier kommen alle Beteiligten rein
-Datum: # Erstelldatum (DD.MM.YYYY)
+Autoren: # Jeanne Helm, Coach @lfr€d
+Datum: # Erstelldatum (14.05.2021)
 ---
 
 # <!-- Name des Rezepts -->
@@ -23,6 +23,9 @@ Vor jeder Einheit haben wir die vorherige Vorlesung wiederholt und Übungsaufgab
 
 #### 🏁Lernziel
 <!-- Hier wird das Rezept (Lernziele) beschrieben. -->
+* Verständnisfragen klären
+* Wissenslücken schließen
+* Lerntiefe steigern
 
 #### ⚡Beispiele
 
@@ -30,7 +33,7 @@ Vor jeder Einheit haben wir die vorherige Vorlesung wiederholt und Übungsaufgab
 <!-- Bei den Zutaten sind die Kosten zu bedenken. Weiterhin könnte man hier eine Anmerkung zum Datenschutz machen. -->
 
 | Zutat | Ort | Kosten | Sicherheit |Login?|
-|--|--|--|--|--|
+|Musterlösungen|zu Hause|1h|--|nein|
 
 #### 🚧 Vorbereitungszeit 
 <!-- Hier geht es darum, wie lange eine Vorbereitung für die Einheit dauert. Ein Lernvideo kann mehrere Stunden dauern. -->
@@ -50,7 +53,7 @@ Ablauf
 
 - Wiederholung der letzten Vorlesung
 - Besprechung der Übungsaufgaben
-- Bereitstellung der Materalien
+- Bereitstellung der Materalien (Musterlösungen?)
 
 
 #### 📑 Referenzen
@@ -84,3 +87,4 @@ Vorlesung Computer Grafik SS2021
 - erfordert Initiative der Studierenden
 - nicht planbare Zeit, wie lange Wiederholungen tatsächlich dauern (länger/kürzer)
 - Vorbereitungszeit für den Dozenten
+- die Übungen werden nur wiederholt, kein Wissens-Transfer 
