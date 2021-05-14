@@ -69,4 +69,8 @@ Kahoot, Zusammenfassung zeigen (wichtistes auf einen Blick)
 ####  Vor- und Nachteile
 * Von wem wird das Quiz erstellt? Dozent / Studenten
 + Benötigt gute Übersicht und gute Vorbereitung
-- Motivation muss oben gehalten werden. Am besten nicht kurz vor Klausurphase.
++ kann Spaß machen
++ kann Studierende wieder wecken
+
+- Motivation muss oben gehalten werden. Am besten nicht kurz vor Klausurphase
+- benötigt auch einen Anreiz, um wiederholt mitzumachen

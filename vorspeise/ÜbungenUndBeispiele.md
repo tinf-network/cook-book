@@ -61,6 +61,7 @@ Wichtig ist es auch, Lösungen nicht nur mündlich zu besprechen, sondern auch d
 Eignet sich auch zum Nachbearbeiten von Themen daheim und zum Besprechen in der nächsten Veranstaltung.
 Digital möglich LIVE mittels IPad oder Beschreibung bereits schriftlich erstellter Lösungen (bspw. eingescannt)
 
+Beispiele müssen hinreichend erklärt sein (für alle Wissenlevels; ggf. auch trivialen Rechenweg aufzeigen, um die Sicherheit zu gewähren). Projekte/Beispiele dürfen nicht zu komplex sein
 
 #### 📑 Referenzen
 <!-- Hier wäre es sehr schön, wenn man ein Beispiel zeigen könnte, das idealerweise offen, zb auf GIT liegt. -->
@@ -84,3 +85,5 @@ oder wenn die Schwierigkeit zu hoch/zu gering ist.
 
 #### 🤔 ⚠️ Vor- und Nachteile
 <!-- Diskussion -->
+- Praktische Projekte müssen 100% funktions- und zeigfähig sein und dürfen nicht in der Vorlesung plötzlich ausfallen.
++ Sehr anschaulich, praxisrelevant
