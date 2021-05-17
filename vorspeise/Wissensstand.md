@@ -7,7 +7,7 @@
 ## 🍲 Art der Speise:  Vorspeise
 <!-- Vorspeise, Hauptgang, Desert -->
 
-### Name: Geschmacks-Teaser
+### Name: Wissensstand
 
 #### 🍹 Geschmacksrichtung
 [x] Frontal
